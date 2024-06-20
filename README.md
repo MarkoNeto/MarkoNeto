@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarkoNeto
 - 👀 I’m interested in Coding and make Friends
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and Python
 - 💞️ I’m looking to collaborate on Everywhere
 - 📫 How to reach me ...
 - ⚡ Fun fact: Why did the chicken cross the road? :D
