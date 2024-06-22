@@ -1,4 +1,4 @@
-<h1 align="left">Welcome to my  Place</h1>
+<h1 align="left">Welcome to my  Profile</h1>
 
 ###
 
@@ -14,7 +14,7 @@
 ###
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 <h4>
-public class HelloToMyProfile { <br><br> 
+public class WelcomeToMyProfile { <br><br> 
    public static void main(String args[]) { <br> <br>
    String name = "Marko";<br>
    boolean likeMe = true;<br><br>       
