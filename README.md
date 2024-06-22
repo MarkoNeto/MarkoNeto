@@ -14,7 +14,7 @@
 ###
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 <h4>
-class Simple { <br><br> 
+public class HelloToMyProfile { <br><br> 
    public static void main(String args[]) { <br> <br>
    String name = "Marko";<br>
    boolean likeMe = true;<br><br>       
