@@ -18,13 +18,13 @@ class Simple { <br><br>
    public static void main(String args[]) { <br> <br>
    String name = "Marko";<br>
    boolean likeMe = true;<br><br>       
-    if (likeMe == true){<br><br>
+    if (likeMe == true)<br><br>
       System.out.println(<b>"Hello World!"</b>);<br> <br> 
       System.out.println(<b>"My name is " +name " and I am a programming enthusiast and student."</b>);<br> <br>
        System.out.println(<b>"I'm glad you liked my profile!"</b>);<br> <br> 
-      } else { <br><br> 
+      else <br><br> 
       System.out.println(<b>"The only truth is to like my profile! ;D"</b>);<br> <br>
-      }<br>
+      <br>
    } <br> 
 } 
 </h4>
