@@ -28,6 +28,7 @@ public class WelcomeToMyProfile { <br><br>
    } <br> 
 } 
 </h4>
+<u></u>Terminal:</u>
 <h3 align="left">Hello World!</h3>
 <h3 align="left">My name is Marko and I am a programming enthusiast and student</h3>
 <h3 align="left">I'm glad you liked my profile!</h3>
