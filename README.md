@@ -18,7 +18,7 @@ public class WelcomeToMyProfile { <br><br>
    public static void main(String args[]) { <br> <br>
    String name = "Marko";<br>
    boolean likeMe = true;<br><br>       
-    if (likeMe == true)<br><br>
+    if (likeMe)<br><br>
       System.out.println(<b>"Hello World!"</b>);<br> <br> 
       System.out.println(<b>"My name is " + name + " and I am a programming enthusiast and student."</b>);<br> <br>
        System.out.println(<b>"I'm glad you liked my profile!"</b>);<br> <br> 
